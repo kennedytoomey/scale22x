@@ -1,5 +1,5 @@
 # SCaLE 22x - Defense in Depth, as learned from watching football
-![image](scale22x_defense_in_depth.pdf)
+![image](scale22x_defense_in_depth_title.pdf)
 
 ## Resources
 - [Slides](scale22x_defense_in_depth.pdf)
